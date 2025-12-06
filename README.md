@@ -17,7 +17,7 @@ Project objective: The purpose of Financial analytics is to evaluate economic tr
 - Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ![Profit and Loss for Market Report](https://github.com/user-attachments/assets/7ca45864-1883-4fa8-8c4f-92c3152cdf83)
-![GM % by Quarters]([https://github.com/user-attachments/assets/2a5455e3-6ad9-4357-9834-5c6d74cc11a9](https://github.com/skazeez9177-sudo/Excel_Sales_and_Financial_Analytics/blob/main/GM%25%20by%20quaters%20(sub%20zone).png))
+![GM % by Quarters]([https://github.com/user-attachments/assets/2a5455e3-6ad9-4357-9834-5c6d74cc11a9](https://github.com/skazeez9177-sudo/Excel_Sales_and_Financial_Analytics/blob/main/GM%25%20by%20quaters%20(sub%20zone).png)
 
 
 

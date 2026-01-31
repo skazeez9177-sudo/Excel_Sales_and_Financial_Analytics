@@ -27,7 +27,7 @@ Project objective: The purpose of Financial analytics is to evaluate economic tr
 - 	Ability to derive fiscal months and quarters.
 - 	Establishing data model relationships with Power Pivot.
 - 	Proficiency in incorporating supplementary data into an existing data model.
-- 	Utilizing DAX to create calculated columns.
+
 
 ## Soft Skills:
 - 	Refined understanding of Sales & Finance Reports
